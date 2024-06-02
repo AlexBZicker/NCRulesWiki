@@ -116,6 +116,8 @@ Cache Map (Fichier MP4)
 
 > `radiovolume [0-200]` 👉 Modifier le volume de la radio Y en jeu
 
+> `rockstareditor` 👉 Ouvre le menu Rockstar Editor
+
 ***
 
 ## **Nous te souhaitons une belle aventure sur New City !! 🔥**
