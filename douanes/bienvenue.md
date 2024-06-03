@@ -11,11 +11,11 @@ Ouvert très régulièrement en journée, heures d'ouverture standard : 18h-00h 
 * Avoir 16 ans minimum
 * Avoir lu et pris connaissance du [règlement](broken-reference)[.](broken-reference)
 
-<img src="https://cdn.discordapp.com/emojis/715585818504331355.gif?size=56&#x26;quality=lossless" alt=":CH_VerifiedTickLightPink:" data-size="line"> **Étape** <img src="https://cdn.discordapp.com/emojis/1138464274172366929.webp?size=56&#x26;quality=lossless" alt=":1_:" data-size="line"> **:** Mettre son nom et son prénom Rôle Play sur Discord
+<img src="https://cdn.discordapp.com/emojis/715585818504331355.gif?size=56&#x26;quality=lossless" alt=":CH_VerifiedTickLightPink:" data-size="line"> **Étape** <img src="https://cdn.discordapp.com/emojis/1138464274172366929.webp?size=56&#x26;quality=lossless" alt=":1_:" data-size="line"> **:** Mettre son nom et son prénom Rôle Play sur Discord.
 
-<img src="https://cdn.discordapp.com/emojis/708621651226394644.gif?size=56&#x26;quality=lossless" alt=":CH_VerifiedTickPink:" data-size="line"> **Étape** <img src="https://cdn.discordapp.com/emojis/1138470493318553720.webp?size=56&#x26;quality=lossless" alt=":2_:" data-size="line"> **:** Etre présent en salle d'attente (sinon on ne pourra pas faire votre passage)
+<img src="https://cdn.discordapp.com/emojis/708621651226394644.gif?size=56&#x26;quality=lossless" alt=":CH_VerifiedTickPink:" data-size="line"> **Étape** <img src="https://cdn.discordapp.com/emojis/1138470493318553720.webp?size=56&#x26;quality=lossless" alt=":2_:" data-size="line"> **:** Etre présent en salle d'attente (sinon on ne pourra pas faire votre passage).
 
-<img src="https://cdn.discordapp.com/emojis/704017074875269152.gif?size=56&#x26;quality=lossless" alt=":CH_VerifiedTickPurple:" data-size="line"> **Étape** <img src="https://cdn.discordapp.com/emojis/1138470527778951380.webp?size=56&#x26;quality=lossless" alt=":3_:" data-size="line"> **:** Prendre un ticket avec politesse (Bonjour / s'il vous plaît / merci)
+<img src="https://cdn.discordapp.com/emojis/704017074875269152.gif?size=56&#x26;quality=lossless" alt=":CH_VerifiedTickPurple:" data-size="line"> **Étape** <img src="https://cdn.discordapp.com/emojis/1138470527778951380.webp?size=56&#x26;quality=lossless" alt=":3_:" data-size="line"> **:** Prendre un ticket avec politesse (Bonjour / s'il vous plaît / merci).
 
 
 

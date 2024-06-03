@@ -20,6 +20,6 @@
 * [🆕 Infos Débutants](fondamentaux/infos-debutants.md)
 * [✈️ Infos Arrivants](fondamentaux/infos-arrivants.md)
 
-***
+## Autres
 
-* [🤷FAQ](faq.md)
+* [🤷FAQ](autres/faq.md)
