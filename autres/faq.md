@@ -29,3 +29,5 @@ Pour pouvoir passer votre WhiteList, il vous faut :&#x20;
 ### <mark style="color:yellow;">🛜 Où peut-on trouver l'adresse de connexion au serveur ?</mark>
 
 Vous pourrez retrouver l'adresse de connexion au serveur directement sur le discord, dans le channel 📟┆ᴇᴛᴀᴛ-ᴅᴜ-ꜱᴇʀᴠᴇᴜʀ !
+
+**Bon jeu sur New City ! 🥳**

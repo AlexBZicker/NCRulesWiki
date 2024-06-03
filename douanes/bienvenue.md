@@ -43,5 +43,5 @@ _Des questions sur comment vous réagirez en RP selon les situations_
 
 _Notre but en tant que Douanier et Staff est de vous faire entrer sur le serveur mais aussi de vous aider en cas de problèmes rencontrés après votre entretien, nous sommes un staff à l'écoute et vous pouvez ouvrir un ticket ou nous solliciter pour vous aider !! Surtout n'hésitez pas, nous sommes là pour que vous viviez la meilleure expérience RP possible !!_
 
-<img src="https://cdn.discordapp.com/emojis/1134857189199200426.webp?size=56&#x26;quality=lossless" alt=":NC:" data-size="line"> **Bienvenue à vous sur New City** !
+**Bon jeu sur New City ! 🥳**
 

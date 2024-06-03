@@ -39,8 +39,6 @@ Cette liste n'est évidemment pas exhaustive. En cas de doute sur une action à 
 
 _Pour plus d'informations, le règlement reste consultable à cette adresse:_ [_https://newcity-roleplay.fr_](https://newcity-roleplay.fr)
 
-
-
 ## J'en ai marre de mon perso et je veux changer de RP, comment faire ?
 
 Rien de plus simple !
@@ -56,3 +54,5 @@ Dans les changements de RP suivants vous **DEVEZ** wipe:
 Pour savoir comment wipe: **Depuis le discord section "CHECK-WIPE"**
 
 _Si vous souhaitez accompagner votre wipe d'une scène de mort RP pour votre personnage, adressez vous à un administrateur ou un responsable staff._
+
+**Bon jeu sur New City ! 🥳**
