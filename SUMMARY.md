@@ -22,4 +22,5 @@
 
 ## 🗒️ Autres
 
-* [❓FAQ](autres/faq.md)
+* [❓ FAQ](autres/faq.md)
+* [🏢 Entreprises](autres/entreprises.md)
