@@ -5,6 +5,8 @@
 ### 📣 <mark style="color:yellow;">Services publics</mark>
 
 * Blaine County Sheriff Office <img src="../.gitbook/assets/image (42).png" alt="" data-size="line">
+* Gouvernement de Cayo Perico <img src="../.gitbook/assets/image (62).png" alt="" data-size="line">
+* Gouvernement de New City <img src="../.gitbook/assets/image.png" alt="" data-size="line">
 * Gruppe 6 <img src="../.gitbook/assets/image (28).png" alt="" data-size="line">
 * NCES : New City Emergency Services <img src="../.gitbook/assets/image (27).png" alt="" data-size="line">
 * NCFD : New City Fire Department <img src="../.gitbook/assets/image (26).png" alt="" data-size="line">
