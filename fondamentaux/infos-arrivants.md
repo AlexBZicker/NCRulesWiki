@@ -39,7 +39,7 @@
 > 1. Pour enregistrer une tenue au magasin de vêtements rien de plus simple. Vérifiez que vous avez au moins 260$ sur vous en liquide, faites votre tenue, appuyez sur échap, payez et enregistrez la avec un nom !&#x20;
 > 2. Ensuite rendez vous dans l’arrière boutique pour récupérer votre tenue et la mettre 🙂﻿ (si vous n'avez pas l'argent sur vous vous ne pourrez pas acheter la tenue et la sauvegarder)
 
-<figure><img src="../.gitbook/assets/image (4).png" alt="" width="318"><figcaption><p>Menu Vestiaire</p></figcaption></figure>
+<figure><img src="../.gitbook/assets/image (4) (1).png" alt="" width="318"><figcaption><p>Menu Vestiaire</p></figcaption></figure>
 
 > 2. Après l'achat de votre téléphone, pour trouver votre numéro rien de plus simple il se trouve dans le petit téléphone comme pour appeler ! 📱
 
