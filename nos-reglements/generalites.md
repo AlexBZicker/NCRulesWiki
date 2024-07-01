@@ -48,6 +48,8 @@ Un dossier doit être transmis au staff pour toute scène illégale dans ces zon
 **Le nombre maximum de joueurs autorisés sur une scène est de 18.**\
 Sauf sur autorisation du staff.
 
+**Crever les pneus d'un véhicule est autorisé uniquement si le véhicule poursuivi roule à moins de 100km/h.**
+
 **Les PITS sont autorisés sous certains conditions :**\
 Inférieur à 100km/h.\
 Ne pas PIT des véhicules plus gros que le sien.\
