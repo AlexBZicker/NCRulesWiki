@@ -155,7 +155,7 @@ Petites armes et armes blanches sans limite.
 Pour pouvoir pratiquer le mercenariat, vous devez vous référer en RP à Cerbère et respecter les règles imposées. Ces règles RP de mercenariat constituent le règlement également.
 
 <mark style="color:red;">**Les négociations de fin de guerre doivent être respectées.**</mark>\ <mark style="color:red;">**Passible d’un avertissement écrit, et avertissement de groupe.**</mark>\
-**5.000.000$** maximum et/ou **3** armes lourdes maximum - **5** moyennes (pour petit groupe ou gang)
+**5'000'000$** maximum et/ou **3** armes lourdes maximum - **5** moyennes (pour petit groupe ou gang)
 
 _<mark style="color:red;">**Toute action jugée par le staff étant inappropriée pourra se voir sanctionnée, allant d'un avertissement oral au bannissement permanent même si elle ne figure pas dans le règlement du serveur. La durée d’un avertissement écrit et de groupe est de 1 mois jour pour jour. Pour les groupes:**</mark>_ \
 _Avertissement Groupe n°1:_ Prévention \

@@ -45,13 +45,13 @@ Rien de plus simple !
 
 Pour ce faire, il faudra **wipe**. Le wipe est le fait de reprendre un nouveau personnage de zéro, sans aucune possession ni relation en ville. Il est la majorité du temps voulu par celui qui le demande mais peut être imposé par le staff via une mort de votre personnage en RP ou un grave manquement au règlement.
 
-Dans les changements de RP suivants vous **DEVEZ** wipe:
+<mark style="color:red;">Dans les changements de RP suivants vous</mark> <mark style="color:red;"></mark><mark style="color:red;">**DEVEZ**</mark> <mark style="color:red;"></mark><mark style="color:red;">wipe:</mark>
 
 * Police ➡️ Sale
 * Sale ➡️ Police
 * Ancien groupe sale (même après fin de projet) ➡️ Nouveau groupe sale
 
-Pour savoir comment wipe: **Depuis le discord section "CHECK-WIPE"**
+Pour savoir comment wipe: **Depuis le discord section **<mark style="color:blue;">**"CHECK-WIPE"**</mark>
 
 _Si vous souhaitez accompagner votre wipe d'une scène de mort RP pour votre personnage, adressez vous à un administrateur ou un responsable staff._
 

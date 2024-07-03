@@ -4,13 +4,12 @@
 
 ### 📣 <mark style="color:yellow;">Services publics</mark>
 
-* Blaine County Sheriff Office <img src="../.gitbook/assets/image (42).png" alt="" data-size="line">
-* Gouvernement de Cayo Perico <img src="../.gitbook/assets/image (62).png" alt="" data-size="line">
 * Gouvernement de New City <img src="../.gitbook/assets/image (5).png" alt="" data-size="line">
 * Gruppe 6 <img src="../.gitbook/assets/image (28).png" alt="" data-size="line">
 * NCES : New City Emergency Services <img src="../.gitbook/assets/image (27).png" alt="" data-size="line">
 * NCFD : New City Fire Department <img src="../.gitbook/assets/image (26).png" alt="" data-size="line">
 * NCPD : New City Police Department <img src="../.gitbook/assets/image (25).png" alt="" data-size="line">
+* Blaine County Sheriff Office <img src="../.gitbook/assets/image (42).png" alt="" data-size="line">
 
 ### &#x20;💼 <mark style="color:yellow;">Entreprises</mark>
 
@@ -22,7 +21,7 @@
 * Black Woods Saloon <img src="../.gitbook/assets/image (39).png" alt="" data-size="line">
 * Cayo Boat
 * Chicken Chick
-* Daily Globe <img src="../.gitbook/assets/image (44).png" alt="" data-size="line">
+* NC NEWS <img src="../.gitbook/assets/image (44).png" alt="" data-size="line">
 * Diamond Royal Casino <img src="../.gitbook/assets/image (45).png" alt="" data-size="line">
 * Hunting Zone <img src="../.gitbook/assets/image (47).png" alt="" data-size="line">
 * La Ferme des Reinettes <img src="../.gitbook/assets/image (48).png" alt="" data-size="line">

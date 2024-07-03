@@ -2,34 +2,34 @@
 
 **Nombre de personnes minimum et maximum sur les scènes spécifiques :**\
 <mark style="color:red;">**Passible d’un avertissement écrit.**</mark>\
-L’utilisation de motos est réservée aux MC.\
-_Entrepôt :_ **2** minimum / **4** maximum (Sale uniquement), **1** voiture OU **2** motos maximum (Police et sale)\
-_Galerie d'art :_ **6** minimum / **12** maximum (Sale uniquement), **4** voitures / **6** motos maximum (Police et sale)\
-_Banque :_ **8** minimum / **14** maximum (Sale uniquement), **5** voitures / **7** motos maximum (Police et sale)\
-_ATM :_ **1** minimum / **4** maximum (Sale uniquement), **1** voiture maximum / pas de moto (Police et sale)\
-_Supérette :_ **1** minimum / **4** maximum (Sale uniquement), **1** voiture maximum / pas de moto (Police et sale)\
-_Clé de diamant :_ **3** minimum / **15** maximum\
-_Braquage Pacific Bank_ : **10** minimum/  **14** maximum (Sale uniquement), **5** voitures / **7** motos maximum (Police et sale)\
-_Braquage de fourgon :_ **4** minimum / **8** maximum, **2** voitures maximum (Police et sale)
+<mark style="color:red;">**L’utilisation de motos est exclusivement réservée aux MC.**</mark>
+
+* _GoFast :_ **1** à **2** joueurs, **1** voiture.
+* _ATM/Supérette :_ **1 à 4** joueurs, **1** voiture maximum / **1** moto maximum.
+* _Clé de diamant :_ **3 à 6** joueurs**, 2** voitures maximum / **3** motos maximum.
+* _Entrepôt :_ **2 à 3** joueurs, **1** voiture / **2** motos maximum.
+* _Fourgon :_ **3** joueurs, **1** voiture maximum / **2** motos maximum.
+* _Bijouterie :_ **6** à **10** joueurs, **2** à **4** voitures / **6** motos maximum.
+* _Galerie d'Art :_ **6** à **12** joueurs, **2** à **4** voitures / **6** motos maximum.
+* _Fleeca :_ **8** à **12** joueurs, **3** à **5** voitures / **7** motos maximum.
+* _Paleto Bank :_ **8** à **12** joueurs, **3** à **5** voitures / **7** motos maximum.
+* _Pacific Bank_ : **10** à **14** joueurs, **4** à **5** voitures / **7** motos maximum.
 
 **Les braquages sont limités par groupe à :**\
-<mark style="color:red;">**Passible d’un avertissement écrit et avertissement de groupe.**</mark>\
-\- **1** Pacific Bank par mois\
-\- **1** Galerie d’art **ET** 1 Fleeca par semaine\
-\- **10** Entrepôts par jour\
-\- **10** Braquages de fourgon par jour\
-Pas de limite sur les ATM, supérettes et clés de diamant.
+<mark style="color:red;">**Passible d’un avertissement écrit et avertissement de groupe.**</mark>
 
-**Vous devez attendre minimum 5 minutes le NCPD lorsque vous faites des supérettes/ATM/Entrepôts afin d'avoir une course poursuite.**\
+* Entrepôt/Fourgon : **6 par jour**.
+* Bijouterie / Galerie d'Art / Fleeca / Paleto Bank : **1 par semaine**.
+* Pacific Bank : **1 tous les 15 jours**.
+
+\
+Pas de limite sur les GoFast, ATM, Supérettes et les Clés de diamant.
+
+**Pour toutes les actions illégales nécessitant l'intervention du NCPD/BCSO vous devez attendre au moins 5 minutes.**\
 <mark style="color:red;">**Passible d’un avertissement écrit.**</mark>\
-Si au bout de 5 minutes votre appel n'a pas été pris, vous pourrez quitter les lieux. S’il est pris, vous devrez attendre l'arrivée du NCPD afin de continuer la scène.
+Si au bout de 5 minutes votre appel n'a pas été pris, vous pourrez quitter les lieux.
 
-_<mark style="color:red;">**Toute action jugée par le staff étant inappropriée pourra se voir sanctionnée, allant d'un avertissement oral au bannissement permanent même si elle ne figure pas dans le règlement du serveur. La durée d’un avertissement écrit et de groupe est de 1 mois jour pour jour. Pour les groupes:**</mark>_ \
-_Avertissement Groupe n°1:_ Prévention \
-_Avertissement Groupe n°2:_ Fin de business pour les groupes officiels \
-_Avertissement Groupe n°3:_ Fin de Projet, bannissement ou wipe du groupe
-
-
+_<mark style="color:red;">**Toute action jugée par le staff étant inappropriée pourra se voir sanctionnée, allant d'un avertissement oral au bannissement permanent même si elle ne figure pas dans le règlement du serveur.**</mark>_
 
 **Bon jeu sur New City ! 🥳**
 

@@ -31,14 +31,15 @@ Résolution d’écran changée, crosshairs, traceurs de balles …
 **Il est interdit de tilt sur scène.**\
 <mark style="color:red;">**Passible de bannissement permanent.**</mark>
 
-**Dans les changements de RP suivants vous DEVEZ wipe :**\
+### **Dans les changements de RP suivants vous DEVEZ wipe :**
+
 <mark style="color:red;">**Passible d'un avertissement écrit.**</mark>\
 Police ➡️ Sale\
 Sale ➡️ Police\
 Changement de groupe ➡️ Nouveau groupe sale
 
 **En cas d'inactivité (aucune connexion au serveur) pendant un mois :**\
-<mark style="color:red;">**Wipe total du personnage.**</mark>
+<mark style="color:red;">**Wipe total du personnage automatiquement.**</mark>
 
 **Toute personne doit avoir obligatoirement sa pièce d'identité sur lui.**\ <mark style="color:red;">**Passible d'un avertissement écrit.**</mark>
 
@@ -74,12 +75,7 @@ Soyez fairplay par rapport à la scène. Les armes ne peuvent être prises qu'en
 <mark style="color:red;">**Passibles d’un bannissement permanent.**</mark>\
 Vous devez accepter la décision du staff qui vous a pris en charge. Si vous avez eu un problème avec le staff en question, vous pouvez vous adresser aux **Responsables Staff.** Si le staff en cause est un responsable staff, vous pouvez vous adresser aux **Co-Fondateur/Fondateur.**
 
-_<mark style="color:red;">**Toute action jugée par le staff étant inappropriée pourra se voir sanctionnée, allant d'un avertissement oral au bannissement permanent même si elle ne figure pas dans le règlement du serveur. La durée d’un avertissement écrit et de groupe est de 1 mois jour pour jour. Pour les groupes:**</mark>_ \
-_Avertissement Groupe n°1:_ Prévention \
-_Avertissement Groupe n°2:_ Fin de business pour les groupes officiels \
-_Avertissement Groupe n°3:_ Fin de Projet, bannissement ou wipe du groupe
-
-
+_<mark style="color:red;">**Toute action jugée par le staff étant inappropriée pourra se voir sanctionnée, allant d'un avertissement oral au bannissement permanent même si elle ne figure pas dans le règlement du serveur.**</mark>_
 
 **Bon jeu sur New City ! 🥳**
 
