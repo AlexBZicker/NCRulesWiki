@@ -11,7 +11,7 @@
 * [📓 Généralités](nos-reglements/generalites.md)
 * [📓 Coma](nos-reglements/coma.md)
 * [📓 Scènes Police (NCPD/BCSO)](nos-reglements/scenes-police-ncpd-bcso.md)
-* [📓 Groupes Illégaux](nos-reglements/groupes-illegaux.md)
+* [📓 Groupes Illégaux & Scènes Illégales](nos-reglements/groupes-illegaux-and-scenes-illegales.md)
 * [📓 Braquages](nos-reglements/braquages.md)
 * [📓 Entreprises](nos-reglements/entreprises.md)
 

@@ -1,13 +1,13 @@
-# 📓 Groupes Illégaux
+# 📓 Groupes Illégaux & Scènes Illégales
 
-**Pour toute demande de création de groupe, veuillez vous adresser à un responsable sale.**\
+<mark style="color:orange;">**Pour toute demande de création de groupe, veuillez vous adresser à un responsable sale.**</mark>\
 Maximum de joueurs dans un groupe, officiel ou non: **23.**\
 Maximum de joueurs d’un groupe sur scène: **18.**\
 Minimum de joueurs pour créer un groupe: **10.**\
 Minimum de membres pour prétendre à une officialisation de groupe: **10.**\
 Il est obligatoire pour les groupes officiels et ceux voulant prétendre à l'officialisation, de prendre activement part à la vie civile et légale.
 
-**Lors de votre arrivée en tant que groupe en ville, vous n’êtes pas encore officiel !**\
+<mark style="color:orange;">**Lors de votre arrivée en tant que groupe en ville, vous n’êtes pas encore officiel !**</mark>\
 Conditions pour prétendre et/ou maintenir l'officialisation d'un groupe:\
 \- Respecter le règlement.\
 \- Ne pas avoir d'avertissement de groupe.\
@@ -18,10 +18,10 @@ Conditions pour prétendre et/ou maintenir l'officialisation d'un groupe:\
 \- Recensement à jour en temps réel dans un channel dédié à celui ci dans votre discord (le recensement doit comprendre nom prénom rp et steam hex)\
 \- Avoir un discord propre, sans membre extérieur au groupe.
 
-**Réfléchissez bien avant de vous engager dans un groupe.**\
+<mark style="color:red;">**Réfléchissez bien avant de vous engager dans un groupe.**</mark>\
 Ce n'est pas une décision à prendre à la légère et cela signifie que vous êtes prêt à perdre votre personnage également.
 
-**En cas de fin de projet, tout le contenu du groupe sera supprimé.**
+<mark style="background-color:red;">**En cas de fin de projet, tout le contenu du groupe sera supprimé.**</mark>
 
 **Les alliance sont autorisées lorsque ces conditions sont toutes réunies :**\
 \- **2** groupes maximum\

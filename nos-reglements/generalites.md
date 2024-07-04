@@ -62,7 +62,7 @@ PITS contre les motos interdits.\
 
 **Il est interdit de récupérer les armes et les véhicules appartenant à un service public.**\
 <mark style="color:red;">**Passibles d’un avertissement écrit.**</mark>\
-NCPD, Gruppe 6, NCES, NCFD, Légion de Cayo Périco.
+Gouvernement, NCPD, NCES, BCSO, NCFD, G6 et services publics similaires.
 
 **Il est interdit de soulever des gens sans aucune raison valable. Le loot d'arme est autorisé à hauteur d'une arme maximum **_**UNIQUEMENT**_** dans le cas d'un conflit entre 2 groupes, d'un GF ou de no fear (justifiable par un rec pour le no fear). Le loot est possible et autorisé à hauteur de 50 % des ressources/argent, à condition qu’il y ait une revendication.**\
 <mark style="color:red;">**Passible d’un avertissement écrit.**</mark>\
