@@ -99,10 +99,6 @@ Vous ne pouvez pas non plus négocier des armes contre un otage lors d’une pri
 **Aucun otage ne doit être pris lors d'un braquage de supérette/ATM/Maison.**\
 <mark style="color:red;">**Passible d’un avertissement écrit et avertissement de groupe.**</mark>
 
-**Pour un QG, vous pourrez indiquer un lieu aux Cerbères obligatoirement et l'acheter, s’il est disponible, vous pourrez vous y installer.**\
-Si un groupe l’occupe déjà, à vous  de trouver un autre QG. Au sein de celui-ci règne le Mass RP. Le NCPD à le droit d’y rentrer patrouiller.\
-Cependant, attaquer le QG d’un groupe est possible avec 5 de vos membres minimum, mais vous expose à des morts RP s’il y a un Gunfight, sauf si vous faites un dossier et que vous avez l’autorisation de Cerbère ou des Responsables sale.
-
 **Dès lors que vous avez un QG, tout le stuff illégal doit être stocké obligatoirement dans le coffre du groupe. Si besoin, un log peut être mis sur le coffre.**\
 <mark style="color:red;">**Passible d’un avertissement écrit ou d’une fin de projet.**</mark>
 
