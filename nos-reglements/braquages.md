@@ -5,15 +5,15 @@
 <mark style="color:red;">**L’utilisation de motos est exclusivement réservée aux MC.**</mark>
 
 * _GoFast :_ **1** à **2** joueurs, **1** voiture.
-* _ATM/Supérette :_ **1 à 4** joueurs, **1** voiture maximum / **1** moto maximum.
-* _Clé de diamant :_ **3 à 6** joueurs**, 2** voitures maximum / **3** motos maximum.
-* _Entrepôt :_ **2 à 3** joueurs, **1** voiture / **2** motos maximum.
-* _Fourgon :_ **3** joueurs, **1** voiture maximum / **2** motos maximum.
-* _Bijouterie :_ **6** à **10** joueurs, **2** à **4** voitures / **6** motos maximum.
-* _Galerie d'Art :_ **6** à **12** joueurs, **2** à **4** voitures / **6** motos maximum.
-* _Fleeca :_ **8** à **12** joueurs, **3** à **5** voitures / **7** motos maximum.
-* _Paleto Bank :_ **8** à **12** joueurs, **3** à **5** voitures / **7** motos maximum.
-* _Pacific Bank_ : **10** à **14** joueurs, **4** à **5** voitures / **7** motos maximum.
+* _ATM/Supérette :_ **1 à 4** joueurs, **1** voiture maximum ou **1** moto maximum.
+* _Clé de diamant :_ **3 à 6** joueurs**, 2** voitures ou **3** motos maximum.
+* _Entrepôt :_ **2 à 3** joueurs, **1** voiture ou **2** motos maximum.
+* _Fourgon :_ **3** joueurs, **1** voiture maximum ou **2** motos maximum.
+* _Bijouterie :_ **6** à **10** joueurs, **2** à **4** voitures ou **6** motos maximum.
+* _Galerie d'Art :_ **6** à **12** joueurs, **2** à **4** voitures ou **6** motos maximum.
+* _Fleeca :_ **8** à **12** joueurs, **3** à **5** voitures ou 8 motos maximum.
+* _Paleto Bank :_ **8** à **12** joueurs, **3** à **5** voitures ou 8 motos maximum.
+* _Pacific Bank_ : **10** à **14** joueurs, **4** à **5** voitures ou 10 motos maximum.
 
 **Les braquages sont limités par groupe à :**\
 <mark style="color:red;">**Passible d’un avertissement écrit et avertissement de groupe.**</mark>
