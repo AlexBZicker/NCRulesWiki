@@ -3,20 +3,20 @@
 <mark style="color:orange;">**Pour toute demande de création de groupe, veuillez vous adresser à un responsable sale.**</mark>\
 Maximum de joueurs dans un groupe, officiel ou non: **23.**\
 Maximum de joueurs d’un groupe sur scène: **18.**\
-Minimum de joueurs pour créer un groupe: **10.**\
-Minimum de membres pour prétendre à une officialisation de groupe: **10.**\
+Minimum de joueurs pour créer un groupe: <mark style="color:red;">**8**</mark>**.**\
+Minimum de membres pour prétendre à une officialisation de groupe: <mark style="color:red;">**8**</mark>**.**\
 Il est obligatoire pour les groupes officiels et ceux voulant prétendre à l'officialisation, de prendre activement part à la vie civile et légale.
 
 <mark style="color:orange;">**Lors de votre arrivée en tant que groupe en ville, vous n’êtes pas encore officiel !**</mark>\
 Conditions pour prétendre et/ou maintenir l'officialisation d'un groupe:\
 \- Respecter le règlement.\
 \- Ne pas avoir d'avertissement de groupe.\
-\- **10** membres actifs minimum, **23** membres maximum.\
+\- <mark style="color:red;">**8**</mark> membres actifs minimum, <mark style="color:red;">**23**</mark> membres maximum.\
 \- Être actif en ville depuis au moins deux semaines.\
-\- Faire du civil: **70%** de vos membres doivent avoir un travail civil.\
+\- Faire du civil: <mark style="color:red;">**70%**</mark> de vos membres doivent avoir un travail civil.\
 \- Donner les permissions administrateur aux responsables sales sur le discord du groupe.\
-\- Recensement à jour en temps réel dans un channel dédié à celui ci dans votre discord (le recensement doit comprendre nom prénom rp et steam hex)\
-\- Avoir un discord propre, sans membre extérieur au groupe.
+\- Recensement à jour en temps réel dans un salon dédié à celui ci dans votre discord (le recensement doit comprendre nom prénom rp et discord id)\
+\- Avoir un discord propre, <mark style="color:yellow;">**sans membre extérieur au groupe**</mark>.
 
 <mark style="color:red;">**Réfléchissez bien avant de vous engager dans un groupe.**</mark>\
 Ce n'est pas une décision à prendre à la légère et cela signifie que vous êtes prêt à perdre votre personnage également.
@@ -26,12 +26,12 @@ Ce n'est pas une décision à prendre à la légère et cela signifie que vous �
 **Les alliance sont autorisées lorsque ces conditions sont toutes réunies :**\
 \- **2** groupes maximum\
 \- **18** personnes maximum, les **2** groupes inclus           \
-\- Autorisation RP de Cerbère _OBLIGATOIRE_ !
+\- Autorisation par un <mark style="color:yellow;">Responsable Staff</mark> ou un <mark style="color:yellow;">Responsable Sale</mark> via un ticket BDA.
 
 **Lorsque votre personnage est mort RP ou wipe, il est strictement interdit de refaire un personnage qui aura les mêmes relations directes que l'ancien et de rejoindre votre ancien groupe.**\
 <mark style="color:red;">**Passible d’un avertissement écrit et d’un wipe forcé.**</mark>
 
-**Si le NCPD n'a pas de véhicule capable de faire de l'offroad, il est interdit pour l’illégal de partir en offroad.**\
+**Si le NCPD/BCSO n'a pas de véhicule capable de faire de l'offroad, il est interdit pour l’illégal de partir en offroad.**\
 <mark style="color:red;">**Passible d’un avertissement écrit.**</mark>
 
 **La torture est autorisée, mais les scènes doivent être "sympa" à jouer et non pas une "corvée".**\
@@ -46,7 +46,7 @@ Le joueur qui se fait torturer peut faire un ticket si la scène devient gênant
 
 **Toute action entreprise par votre groupe doit être revendiquée (soulevage, prise d'otage, fusillade,...)**\
 <mark style="color:red;">**Passible d’un avertissement écrit et avertissement de groupe.**</mark>\
-Vous devez assumer vos actions de A à Z sauf contre le NCPD.
+Vous devez assumer vos actions de A à Z sauf contre le NCPD/BCSO.
 
 **Il est interdit de retourner à votre QG, zone safe, ou entreprise lorsque vous êtes poursuivi.**\
 <mark style="color:red;">**Passible d’un avertissement écrit et avertissement de groupe.**</mark>\
@@ -75,7 +75,7 @@ Nombre d’otages maximum autorisé: **4**
 **Il est interdit de Loot un coffre de véhicule sans la présence du conducteur ou passager ( conscient ).**\
 <mark style="color:red;">**Passible d’un avertissement écrit.**</mark>
 
-**Lorsque vous avez des otages, et que vous êtes poursuivis par le NCPD ou le groupe de l’otage, vous devez les informer  avant toute autre action afin qu'ils viennent négocier avec vous.**\
+**Lorsque vous avez des otages, et que vous êtes poursuivis par le NCPD/BCSO ou le groupe de l’otage, vous devez les informer  avant toute autre action afin qu'ils viennent négocier avec vous.**\
 <mark style="color:red;">**Passibles d’un avertissement écrit, et avertissement de groupe.**</mark>\
 Si vos poursuivants s’en vont vous pouvez partir avec l’otage librement.\
 Si vous demandez une rançon, vous pouvez demander $75.000/otage et jusqu’à $80.000/otage si c’est un membre du Gouvernement.\
@@ -106,7 +106,7 @@ Vous ne pouvez pas non plus négocier des armes contre un otage lors d’une pri
 <mark style="color:red;">**Passibles d’un avertissement écrit et avertissement de groupe.**</mark>\
 Il est autorisé aux gangs de revendiquer leur quartier, mais de ne pas en faire une zone de non droit. La police peut patrouiller à l’intérieur.
 
-**Les indépendants sont autorisés à agir au maximum de 4 personnes et ont pour interdiction de rentrer en conflit avec un groupe reconnu par Cerbère.**\
+**Les indépendants sont autorisés à agir au maximum de 4 personnes et ont pour interdiction de rentrer en conflit avec un groupe reconnu.**\
 <mark style="color:red;">**Passible d’un avertissement écrit.**</mark>
 
 **Le chef détient tous les droits sur ses membres et peut les tuer avec raison valable sans faire de dossier en ouvrant un ticket aux Responsables sale obligatoirement.**\
@@ -148,7 +148,7 @@ Petites armes et armes blanches sans limite.
 
 **Le mercenariat est possible mais réglementé.**\
 <mark style="color:red;">**Passibles d’un avertissement écrit, et avertissement de groupe.**</mark>\
-Pour pouvoir pratiquer le mercenariat, vous devez vous référer en RP à Cerbère et respecter les règles imposées. Ces règles RP de mercenariat constituent le règlement également.
+Pour pouvoir pratiquer le mercenariat, vous devez vous communiquer un dossier en BDA à un Responsable Sale et respecter les règles imposées. Ces règles RP de mercenariat constituent le règlement également.
 
 <mark style="color:red;">**Les négociations de fin de guerre doivent être respectées.**</mark>\ <mark style="color:red;">**Passible d’un avertissement écrit, et avertissement de groupe.**</mark>\
 **5'000'000$** maximum et/ou **3** armes lourdes maximum - **5** moyennes (pour petit groupe ou gang)

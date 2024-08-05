@@ -43,7 +43,7 @@ Changement de groupe ➡️ Nouveau groupe sale
 
 **Toute personne doit avoir obligatoirement sa pièce d'identité sur lui.**\ <mark style="color:red;">**Passible d'un avertissement écrit.**</mark>
 
-**Rappel des zones "safes" : Gouvernement, Commissariat de Police, Caserne de Pompier, QG Légion, Hôpital, tous les ATM, Prison.**\
+**Rappel des zones "safes" : Gouvernement, Commissariat de Police, Caserne de Pompier, Hôpital, tous les ATM, Prison.**\
 Un dossier doit être transmis au staff pour toute scène illégale dans ces zones.
 
 **Le nombre maximum de joueurs autorisés sur une scène est de 18.**\
