@@ -1,8 +1,8 @@
 # 📓 Groupes Illégaux & Scènes Illégales
 
 <mark style="color:orange;">**Pour toute demande de création de groupe, veuillez vous adresser à un responsable sale.**</mark>\
-Maximum de joueurs dans un groupe, officiel ou non: **23.**\
-Maximum de joueurs d’un groupe sur scène: **18.**\
+Maximum de joueurs dans un groupe, officiel ou non: <mark style="color:red;">**23**</mark>**.**\
+Maximum de joueurs d’un groupe sur scène: <mark style="color:red;">**18**</mark>**.**\
 Minimum de joueurs pour créer un groupe: <mark style="color:red;">**8**</mark>**.**\
 Minimum de membres pour prétendre à une officialisation de groupe: <mark style="color:red;">**8**</mark>**.**\
 Il est obligatoire pour les groupes officiels et ceux voulant prétendre à l'officialisation, de prendre activement part à la vie civile et légale.
